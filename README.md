@@ -31,7 +31,7 @@ Uygulamanın erişimi, Google Hesap izinleri sayfasından
 Erişim kaldırıldığında yerel olarak saklanan kopyalar da silinebilir.
 
 ### İletişim
-hamzakadir@gmail.com
+support@kadirhamza.com
 
 ---
 
@@ -56,4 +56,4 @@ Google API Services User Data Policy, including the Limited Use requirements.
 **Revoking access:** access can be revoked at any time at
 <https://myaccount.google.com/permissions>.
 
-**Contact:** hamzakadir@gmail.com
+**Contact:** support@kadirhamza.com
